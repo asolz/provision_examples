@@ -46,7 +46,7 @@ More Information
 
 **Notes**
 
-* The provisoining system is a powerful interface that allows a device OEM to
+* The provisioning system is a powerful interface that allows a device OEM to
   deploy fleets of devices and for those devices to subsequently instantiate 
   themselves with the Exosite system.  When a device instantiates with its
   model's profile, you can have scripts automatically run to do things like
